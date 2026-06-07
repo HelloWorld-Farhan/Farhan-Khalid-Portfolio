@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@100,400..900;125,400..900&display=swap');
+
+:root {
+  --paper: #faf7f3;
+  --ink: #111111;
+  --muted: #8b8782;
+  --line: rgba(17, 17, 17, 0.14);
+  font-family: 'Archivo', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI',
+    sans-serif;
+  color: var(--ink);
+  background: var(--paper);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 110px;
+}
+
+body {
+  position: relative;
+  min-width: 320px;
+  min-height: 100svh;
+  margin: 0;
+  overflow-x: hidden;
+  background-color: var(--paper);
+  background-image:
+    linear-gradient(rgba(17, 17, 17, 0.035) 1px, transparent 1px),
+    radial-gradient(rgba(17, 17, 17, 0.09) 0.55px, transparent 0.55px);
+  background-position:
+    0 4px,
+    0 0;
+  background-size:
+    100% 160px,
+    3px 3px;
+}
+
+body::before {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  content: '';
+  pointer-events: none;
+  background-image:
+    radial-gradient(rgba(17, 17, 17, 0.08) 0.45px, transparent 0.45px),
+    radial-gradient(rgba(250, 247, 243, 0.16) 0.5px, transparent 0.5px);
+  background-position:
+    0 0,
+    1px 1px;
+  background-size:
+    4px 4px,
+    5px 5px;
+  opacity: 0.42;
+}
+
+button,
+input,
+textarea {
+  font: inherit;
+}
+
+img {
+  max-width: 100%;
+}
+
+#root {
+  position: relative;
+  z-index: 1;
+  min-height: 100svh;
+}
+
+::selection {
+  background: var(--ink);
+  color: var(--paper);
+}

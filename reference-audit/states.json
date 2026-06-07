@@ -1,0 +1,3656 @@
+{
+  "scrollHeight": 8848,
+  "logs": [],
+  "states": [
+    {
+      "scrollY": 0,
+      "visible": [
+        {
+          "tag": "A",
+          "text": "U s e f o r F r e e",
+          "cls": "framer-1u5lwqx framer-3fmz9g",
+          "rect": {
+            "x": 1260,
+            "y": 1056,
+            "w": 160,
+            "h": 35
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgb(17, 17, 17)"
+        },
+        {
+          "tag": "P",
+          "text": "U s e f o r F r e e",
+          "cls": "rolling-text-inner-r5",
+          "rect": {
+            "x": 1297,
+            "y": 1064,
+            "w": 85,
+            "h": 19
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "M o r e T e m p l a t e s",
+          "cls": "framer-1ppydaa framer-3fmz9g",
+          "rect": {
+            "x": 1260,
+            "y": 1099,
+            "w": 160,
+            "h": 35
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgb(17, 17, 17)"
+        },
+        {
+          "tag": "P",
+          "text": "M o r e T e m p l a t e s",
+          "cls": "rolling-text-inner-r6",
+          "rect": {
+            "x": 1283,
+            "y": 1107,
+            "w": 114,
+            "h": 19
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Majd",
+          "cls": "framer-text framer-styles-preset-q3u9sj",
+          "rect": {
+            "x": 576,
+            "y": 45,
+            "w": 45,
+            "h": 31
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "Majd",
+          "cls": "framer-text framer-styles-preset-1kr3xaf",
+          "rect": {
+            "x": 576,
+            "y": 43,
+            "w": 45,
+            "h": 33
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "IMG",
+          "text": "Portrait of portfolio creator – back view",
+          "cls": "",
+          "rect": {
+            "x": 620,
+            "y": 952,
+            "w": 200,
+            "h": 228
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "IMG",
+          "text": "Portrait of portfolio creator – front view",
+          "cls": "",
+          "rect": {
+            "x": 620,
+            "y": 952,
+            "w": 200,
+            "h": 228
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "SECTION",
+          "text": "SOFTWARE ENGINEER ©2026 /CREATING SINCE 2020",
+          "cls": "framer-1dddyte",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 1440,
+            "h": 1200
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "IMG",
+          "text": "",
+          "cls": "",
+          "rect": {
+            "x": 1147,
+            "y": 658,
+            "w": 198,
+            "h": 198
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "IMG",
+          "text": "",
+          "cls": "",
+          "rect": {
+            "x": 114,
+            "y": 383,
+            "w": 140,
+            "h": 140
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "H1",
+          "text": "SOFTWARE ENGINEER",
+          "cls": "framer-text framer-styles-preset-1q6lszz",
+          "rect": {
+            "x": 130,
+            "y": 443,
+            "w": 1180,
+            "h": 313
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(17, 17, 17)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "H2",
+          "text": "©2026",
+          "cls": "framer-text framer-styles-preset-qivcl7",
+          "rect": {
+            "x": 130,
+            "y": 1112,
+            "w": 201,
+            "h": 68
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(17, 17, 17)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "/CREATING SINCE 2020",
+          "cls": "framer-text framer-styles-preset-8qcqpn",
+          "rect": {
+            "x": 1125,
+            "y": 1155,
+            "w": 185,
+            "h": 25
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(17, 17, 17)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "SECTION",
+          "text": "Hey! I’m Majd, a builder based in Syria, currently working on Farhan, a platform for high-quality templates. I’m",
+          "cls": "framer-m00iei",
+          "rect": {
+            "x": 0,
+            "y": 1200,
+            "w": 1440,
+            "h": 1200
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "Create a free website online loved by startups, designers and agencies.",
+          "cls": "framer-6jWyo framer-n0ccwk framer-v-n0ccwk framer-bmpgw8 __framer-badge",
+          "rect": {
+            "x": 1280,
+            "y": 1142,
+            "w": 140,
+            "h": 38
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0)"
+        }
+      ]
+    },
+    {
+      "scrollY": 918,
+      "visible": [
+        {
+          "tag": "A",
+          "text": "U s e f o r F r e e",
+          "cls": "framer-1u5lwqx framer-3fmz9g",
+          "rect": {
+            "x": 1260,
+            "y": 1056,
+            "w": 160,
+            "h": 35
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgb(17, 17, 17)"
+        },
+        {
+          "tag": "P",
+          "text": "U s e f o r F r e e",
+          "cls": "rolling-text-inner-r5",
+          "rect": {
+            "x": 1297,
+            "y": 1064,
+            "w": 85,
+            "h": 19
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "M o r e T e m p l a t e s",
+          "cls": "framer-1ppydaa framer-3fmz9g",
+          "rect": {
+            "x": 1260,
+            "y": 1099,
+            "w": 160,
+            "h": 35
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgb(17, 17, 17)"
+        },
+        {
+          "tag": "P",
+          "text": "M o r e T e m p l a t e s",
+          "cls": "rolling-text-inner-r6",
+          "rect": {
+            "x": 1283,
+            "y": 1107,
+            "w": 114,
+            "h": 19
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Majd",
+          "cls": "framer-text framer-styles-preset-q3u9sj",
+          "rect": {
+            "x": 576,
+            "y": 45,
+            "w": 45,
+            "h": 31
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "Majd",
+          "cls": "framer-text framer-styles-preset-1kr3xaf",
+          "rect": {
+            "x": 576,
+            "y": 43,
+            "w": 45,
+            "h": 33
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "IMG",
+          "text": "Portrait of portfolio creator – back view",
+          "cls": "",
+          "rect": {
+            "x": 602,
+            "y": 755,
+            "w": 265,
+            "h": 453
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "IMG",
+          "text": "Portrait of portfolio creator – front view",
+          "cls": "",
+          "rect": {
+            "x": 602,
+            "y": 755,
+            "w": 265,
+            "h": 453
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "SECTION",
+          "text": "SOFTWARE ENGINEER ©2026 /CREATING SINCE 2020",
+          "cls": "framer-1dddyte",
+          "rect": {
+            "x": 0,
+            "y": -918,
+            "w": 1440,
+            "h": 1200
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "H2",
+          "text": "©2026",
+          "cls": "framer-text framer-styles-preset-qivcl7",
+          "rect": {
+            "x": 130,
+            "y": 194,
+            "w": 201,
+            "h": 68
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(17, 17, 17)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "/CREATING SINCE 2020",
+          "cls": "framer-text framer-styles-preset-8qcqpn",
+          "rect": {
+            "x": 1125,
+            "y": 237,
+            "w": 185,
+            "h": 25
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(17, 17, 17)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "SECTION",
+          "text": "Hey! I’m Majd, a builder based in Syria, currently working on Farhan, a platform for high-quality templates. I’m",
+          "cls": "framer-m00iei",
+          "rect": {
+            "x": 0,
+            "y": 282,
+            "w": 1440,
+            "h": 1200
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "H2",
+          "text": "Hey!",
+          "cls": "framer-text framer-styles-preset-izeex",
+          "rect": {
+            "x": 130,
+            "y": 1003,
+            "w": 300,
+            "h": 76
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(17, 17, 17)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "Create a free website online loved by startups, designers and agencies.",
+          "cls": "framer-6jWyo framer-n0ccwk framer-v-n0ccwk framer-bmpgw8 __framer-badge",
+          "rect": {
+            "x": 1280,
+            "y": 1142,
+            "w": 140,
+            "h": 38
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0)"
+        }
+      ]
+    },
+    {
+      "scrollY": 1836,
+      "visible": [
+        {
+          "tag": "A",
+          "text": "U s e f o r F r e e",
+          "cls": "framer-1u5lwqx framer-3fmz9g",
+          "rect": {
+            "x": 1260,
+            "y": 1056,
+            "w": 160,
+            "h": 35
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgb(17, 17, 17)"
+        },
+        {
+          "tag": "P",
+          "text": "U s e f o r F r e e",
+          "cls": "rolling-text-inner-r5",
+          "rect": {
+            "x": 1297,
+            "y": 1064,
+            "w": 85,
+            "h": 19
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "M o r e T e m p l a t e s",
+          "cls": "framer-1ppydaa framer-3fmz9g",
+          "rect": {
+            "x": 1260,
+            "y": 1099,
+            "w": 160,
+            "h": 35
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgb(17, 17, 17)"
+        },
+        {
+          "tag": "P",
+          "text": "M o r e T e m p l a t e s",
+          "cls": "rolling-text-inner-r6",
+          "rect": {
+            "x": 1283,
+            "y": 1107,
+            "w": 114,
+            "h": 19
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Majd",
+          "cls": "framer-text framer-styles-preset-q3u9sj",
+          "rect": {
+            "x": 576,
+            "y": 45,
+            "w": 45,
+            "h": 31
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "Majd",
+          "cls": "framer-text framer-styles-preset-1kr3xaf",
+          "rect": {
+            "x": 576,
+            "y": 43,
+            "w": 45,
+            "h": 33
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "IMG",
+          "text": "Portrait of portfolio creator – back view",
+          "cls": "",
+          "rect": {
+            "x": 520,
+            "y": 88,
+            "w": 400,
+            "h": 456
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "IMG",
+          "text": "Portrait of portfolio creator – front view",
+          "cls": "",
+          "rect": {
+            "x": 520,
+            "y": 88,
+            "w": 400,
+            "h": 456
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "SECTION",
+          "text": "Hey! I’m Majd, a builder based in Syria, currently working on Farhan, a platform for high-quality templates. I’m",
+          "cls": "framer-m00iei",
+          "rect": {
+            "x": 0,
+            "y": -636,
+            "w": 1440,
+            "h": 1200
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "H2",
+          "text": "Hey!",
+          "cls": "framer-text framer-styles-preset-izeex",
+          "rect": {
+            "x": 130,
+            "y": 85,
+            "w": 300,
+            "h": 76
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(17, 17, 17)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "I’m Majd, a builder based in Syria, currently working on Farhan, a platform for high-quality templates.",
+          "cls": "framer-text framer-styles-preset-q3u9sj",
+          "rect": {
+            "x": 130,
+            "y": 421,
+            "w": 300,
+            "h": 123
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(17, 17, 17)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "I’m a software engineer and creator with a strong focus on building modern, scalable, and conversion-driven web e",
+          "cls": "framer-text framer-styles-preset-8qcqpn",
+          "rect": {
+            "x": 950,
+            "y": 325,
+            "w": 360,
+            "h": 76
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(17, 17, 17)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Over the years, I’ve created and shipped multiple SaaS products and templates used by global customers, helping t",
+          "cls": "framer-text framer-styles-preset-8qcqpn",
+          "rect": {
+            "x": 950,
+            "y": 420,
+            "w": 360,
+            "h": 76
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(17, 17, 17)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "Get Started",
+          "cls": "framer-jEmFC framer-N1dSz framer-f4qgyi framer-v-f4qgyi framer-1jei1zo",
+          "rect": {
+            "x": 950,
+            "y": 516,
+            "w": 121,
+            "h": 28
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(255, 255, 255, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Get Started",
+          "cls": "framer-text framer-styles-preset-8qcqpn",
+          "rect": {
+            "x": 950,
+            "y": 517,
+            "w": 83,
+            "h": 25
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(17, 17, 17)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "SECTION",
+          "text": "Fromideatolaunch.Clean,scalabledigitalproductsbuilttomovefast,staysimple,andperforminreal-worlduse,drivenbyclarity,struc",
+          "cls": "framer-lcc4ld",
+          "rect": {
+            "x": 0,
+            "y": 574,
+            "w": 1440,
+            "h": 1800
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "Create a free website online loved by startups, designers and agencies.",
+          "cls": "framer-6jWyo framer-n0ccwk framer-v-n0ccwk framer-bmpgw8 __framer-badge",
+          "rect": {
+            "x": 1280,
+            "y": 1142,
+            "w": 140,
+            "h": 38
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0)"
+        }
+      ]
+    },
+    {
+      "scrollY": 2753,
+      "visible": [
+        {
+          "tag": "A",
+          "text": "U s e f o r F r e e",
+          "cls": "framer-1u5lwqx framer-3fmz9g",
+          "rect": {
+            "x": 1260,
+            "y": 1056,
+            "w": 160,
+            "h": 35
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgb(17, 17, 17)"
+        },
+        {
+          "tag": "P",
+          "text": "U s e f o r F r e e",
+          "cls": "rolling-text-inner-r5",
+          "rect": {
+            "x": 1297,
+            "y": 1064,
+            "w": 85,
+            "h": 19
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "M o r e T e m p l a t e s",
+          "cls": "framer-1ppydaa framer-3fmz9g",
+          "rect": {
+            "x": 1260,
+            "y": 1099,
+            "w": 160,
+            "h": 35
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgb(17, 17, 17)"
+        },
+        {
+          "tag": "P",
+          "text": "M o r e T e m p l a t e s",
+          "cls": "rolling-text-inner-r6",
+          "rect": {
+            "x": 1283,
+            "y": 1107,
+            "w": 114,
+            "h": 19
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Majd",
+          "cls": "framer-text framer-styles-preset-q3u9sj",
+          "rect": {
+            "x": 576,
+            "y": 45,
+            "w": 45,
+            "h": 31
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "Majd",
+          "cls": "framer-text framer-styles-preset-1kr3xaf",
+          "rect": {
+            "x": 576,
+            "y": 43,
+            "w": 45,
+            "h": 33
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "SECTION",
+          "text": "Fromideatolaunch.Clean,scalabledigitalproductsbuilttomovefast,staysimple,andperforminreal-worlduse,drivenbyclarity,struc",
+          "cls": "framer-lcc4ld",
+          "rect": {
+            "x": 0,
+            "y": -343,
+            "w": 1440,
+            "h": 1800
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "Create a free website online loved by startups, designers and agencies.",
+          "cls": "framer-6jWyo framer-n0ccwk framer-v-n0ccwk framer-bmpgw8 __framer-badge",
+          "rect": {
+            "x": 1280,
+            "y": 1142,
+            "w": 140,
+            "h": 38
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0)"
+        }
+      ]
+    },
+    {
+      "scrollY": 3671,
+      "visible": [
+        {
+          "tag": "A",
+          "text": "U s e f o r F r e e",
+          "cls": "framer-1u5lwqx framer-3fmz9g",
+          "rect": {
+            "x": 1260,
+            "y": 1056,
+            "w": 160,
+            "h": 35
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgb(17, 17, 17)"
+        },
+        {
+          "tag": "P",
+          "text": "U s e f o r F r e e",
+          "cls": "rolling-text-inner-r5",
+          "rect": {
+            "x": 1297,
+            "y": 1064,
+            "w": 85,
+            "h": 19
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "M o r e T e m p l a t e s",
+          "cls": "framer-1ppydaa framer-3fmz9g",
+          "rect": {
+            "x": 1260,
+            "y": 1099,
+            "w": 160,
+            "h": 35
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgb(17, 17, 17)"
+        },
+        {
+          "tag": "P",
+          "text": "M o r e T e m p l a t e s",
+          "cls": "rolling-text-inner-r6",
+          "rect": {
+            "x": 1283,
+            "y": 1107,
+            "w": 114,
+            "h": 19
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Majd",
+          "cls": "framer-text framer-styles-preset-q3u9sj",
+          "rect": {
+            "x": 576,
+            "y": 45,
+            "w": 45,
+            "h": 31
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "Majd",
+          "cls": "framer-text framer-styles-preset-1kr3xaf",
+          "rect": {
+            "x": 576,
+            "y": 43,
+            "w": 45,
+            "h": 33
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "SECTION",
+          "text": "Fromideatolaunch.Clean,scalabledigitalproductsbuilttomovefast,staysimple,andperforminreal-worlduse,drivenbyclarity,struc",
+          "cls": "framer-lcc4ld",
+          "rect": {
+            "x": 0,
+            "y": -1261,
+            "w": 1440,
+            "h": 1800
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "SECTION",
+          "text": "Services Website Migration Web Migration Optimization Website Rebuild templates Startup Agency SaaS Frontend Devel",
+          "cls": "framer-1bgnipk",
+          "rect": {
+            "x": 0,
+            "y": 549,
+            "w": 1440,
+            "h": 664
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "H2",
+          "text": "Services",
+          "cls": "framer-text framer-styles-preset-izeex",
+          "rect": {
+            "x": 130,
+            "y": 549,
+            "w": 1180,
+            "h": 76
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(17, 17, 17)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Web Migration",
+          "cls": "framer-text framer-styles-preset-8qcqpn",
+          "rect": {
+            "x": 953,
+            "y": 734,
+            "w": 105,
+            "h": 25
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgba(17, 17, 17, 0.5)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Optimization",
+          "cls": "framer-text framer-styles-preset-8qcqpn",
+          "rect": {
+            "x": 1082,
+            "y": 734,
+            "w": 91,
+            "h": 25
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgba(17, 17, 17, 0.5)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Website Rebuild",
+          "cls": "framer-text framer-styles-preset-8qcqpn",
+          "rect": {
+            "x": 1197,
+            "y": 734,
+            "w": 113,
+            "h": 25
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgba(17, 17, 17, 0.5)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Startup",
+          "cls": "framer-text framer-styles-preset-8qcqpn",
+          "rect": {
+            "x": 1112,
+            "y": 870,
+            "w": 53,
+            "h": 25
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgba(17, 17, 17, 0.5)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Agency",
+          "cls": "framer-text framer-styles-preset-8qcqpn",
+          "rect": {
+            "x": 1189,
+            "y": 870,
+            "w": 56,
+            "h": 25
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgba(17, 17, 17, 0.5)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "SaaS",
+          "cls": "framer-text framer-styles-preset-8qcqpn",
+          "rect": {
+            "x": 1269,
+            "y": 870,
+            "w": 41,
+            "h": 25
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgba(17, 17, 17, 0.5)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "UI Dev",
+          "cls": "framer-text framer-styles-preset-8qcqpn",
+          "rect": {
+            "x": 932,
+            "y": 1006,
+            "w": 50,
+            "h": 25
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgba(17, 17, 17, 0.5)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Responsive Layouts",
+          "cls": "framer-text framer-styles-preset-8qcqpn",
+          "rect": {
+            "x": 1006,
+            "y": 1006,
+            "w": 148,
+            "h": 25
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgba(17, 17, 17, 0.5)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Web Performance",
+          "cls": "framer-text framer-styles-preset-8qcqpn",
+          "rect": {
+            "x": 1178,
+            "y": 1006,
+            "w": 132,
+            "h": 25
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgba(17, 17, 17, 0.5)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Product Direction",
+          "cls": "framer-text framer-styles-preset-8qcqpn",
+          "rect": {
+            "x": 895,
+            "y": 1142,
+            "w": 125,
+            "h": 25
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgba(17, 17, 17, 0.5)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Web Strategy",
+          "cls": "framer-text framer-styles-preset-8qcqpn",
+          "rect": {
+            "x": 1044,
+            "y": 1142,
+            "w": 98,
+            "h": 25
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgba(17, 17, 17, 0.5)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Technical Guidance",
+          "cls": "framer-text framer-styles-preset-8qcqpn",
+          "rect": {
+            "x": 1166,
+            "y": 1142,
+            "w": 144,
+            "h": 25
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgba(17, 17, 17, 0.5)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "Create a free website online loved by startups, designers and agencies.",
+          "cls": "framer-6jWyo framer-n0ccwk framer-v-n0ccwk framer-bmpgw8 __framer-badge",
+          "rect": {
+            "x": 1280,
+            "y": 1142,
+            "w": 140,
+            "h": 38
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0)"
+        }
+      ]
+    },
+    {
+      "scrollY": 4589,
+      "visible": [
+        {
+          "tag": "A",
+          "text": "U s e f o r F r e e",
+          "cls": "framer-1u5lwqx framer-3fmz9g",
+          "rect": {
+            "x": 1260,
+            "y": 1056,
+            "w": 160,
+            "h": 35
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgb(17, 17, 17)"
+        },
+        {
+          "tag": "P",
+          "text": "U s e f o r F r e e",
+          "cls": "rolling-text-inner-r5",
+          "rect": {
+            "x": 1297,
+            "y": 1064,
+            "w": 85,
+            "h": 19
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "M o r e T e m p l a t e s",
+          "cls": "framer-1ppydaa framer-3fmz9g",
+          "rect": {
+            "x": 1260,
+            "y": 1099,
+            "w": 160,
+            "h": 35
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgb(17, 17, 17)"
+        },
+        {
+          "tag": "P",
+          "text": "M o r e T e m p l a t e s",
+          "cls": "rolling-text-inner-r6",
+          "rect": {
+            "x": 1283,
+            "y": 1107,
+            "w": 114,
+            "h": 19
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Majd",
+          "cls": "framer-text framer-styles-preset-q3u9sj",
+          "rect": {
+            "x": 576,
+            "y": 45,
+            "w": 45,
+            "h": 31
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "Majd",
+          "cls": "framer-text framer-styles-preset-1kr3xaf",
+          "rect": {
+            "x": 576,
+            "y": 43,
+            "w": 45,
+            "h": 33
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "SECTION",
+          "text": "Services Website Migration Web Migration Optimization Website Rebuild templates Startup Agency SaaS Frontend Devel",
+          "cls": "framer-1bgnipk",
+          "rect": {
+            "x": 0,
+            "y": -369,
+            "w": 1440,
+            "h": 664
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "UI Dev",
+          "cls": "framer-text framer-styles-preset-8qcqpn",
+          "rect": {
+            "x": 932,
+            "y": 86,
+            "w": 50,
+            "h": 25
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgba(17, 17, 17, 0.5)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Responsive Layouts",
+          "cls": "framer-text framer-styles-preset-8qcqpn",
+          "rect": {
+            "x": 1006,
+            "y": 86,
+            "w": 148,
+            "h": 25
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgba(17, 17, 17, 0.5)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Web Performance",
+          "cls": "framer-text framer-styles-preset-8qcqpn",
+          "rect": {
+            "x": 1178,
+            "y": 86,
+            "w": 132,
+            "h": 25
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgba(17, 17, 17, 0.5)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Product Direction",
+          "cls": "framer-text framer-styles-preset-8qcqpn",
+          "rect": {
+            "x": 895,
+            "y": 222,
+            "w": 125,
+            "h": 25
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgba(17, 17, 17, 0.5)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Web Strategy",
+          "cls": "framer-text framer-styles-preset-8qcqpn",
+          "rect": {
+            "x": 1044,
+            "y": 222,
+            "w": 98,
+            "h": 25
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgba(17, 17, 17, 0.5)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Technical Guidance",
+          "cls": "framer-text framer-styles-preset-8qcqpn",
+          "rect": {
+            "x": 1166,
+            "y": 222,
+            "w": 144,
+            "h": 25
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgba(17, 17, 17, 0.5)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "SECTION",
+          "text": "Featured Projects View All Work Damas Agency template Najm SaaS template Kavi AI template Sham Stud",
+          "cls": "framer-1ut795m",
+          "rect": {
+            "x": 0,
+            "y": 305,
+            "w": 1440,
+            "h": 1292
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "H2",
+          "text": "Featured Projects",
+          "cls": "framer-text framer-styles-preset-izeex",
+          "rect": {
+            "x": 130,
+            "y": 425,
+            "w": 460,
+            "h": 152
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(17, 17, 17)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "View All Work",
+          "cls": "framer-jEmFC framer-N1dSz framer-f4qgyi framer-v-f4qgyi framer-1jei1zo",
+          "rect": {
+            "x": 1173,
+            "y": 549,
+            "w": 137,
+            "h": 28
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(255, 255, 255, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "View All Work",
+          "cls": "framer-text framer-styles-preset-8qcqpn",
+          "rect": {
+            "x": 1173,
+            "y": 550,
+            "w": 99,
+            "h": 25
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(17, 17, 17)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "Damas Agency template",
+          "cls": "framer-RX6DT framer-zr0hx framer-cZC2Y framer-32eq8k framer-v-32eq8k framer-of3a",
+          "rect": {
+            "x": 130,
+            "y": 639,
+            "w": 582,
+            "h": 472
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(255, 255, 255, 0)"
+        },
+        {
+          "tag": "IMG",
+          "text": "",
+          "cls": "",
+          "rect": {
+            "x": 130,
+            "y": 639,
+            "w": 582,
+            "h": 401
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Agency template",
+          "cls": "framer-text framer-styles-preset-18hoqs7",
+          "rect": {
+            "x": 130,
+            "y": 1089,
+            "w": 582,
+            "h": 22
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(17, 17, 17)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "Najm SaaS template",
+          "cls": "framer-RX6DT framer-zr0hx framer-cZC2Y framer-32eq8k framer-v-32eq8k framer-of3a",
+          "rect": {
+            "x": 728,
+            "y": 639,
+            "w": 582,
+            "h": 472
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(255, 255, 255, 0)"
+        },
+        {
+          "tag": "IMG",
+          "text": "",
+          "cls": "",
+          "rect": {
+            "x": 728,
+            "y": 639,
+            "w": 582,
+            "h": 401
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "SaaS template",
+          "cls": "framer-text framer-styles-preset-18hoqs7",
+          "rect": {
+            "x": 728,
+            "y": 1089,
+            "w": 582,
+            "h": 22
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(17, 17, 17)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "Kavi AI template",
+          "cls": "framer-RX6DT framer-zr0hx framer-cZC2Y framer-32eq8k framer-v-32eq8k framer-of3a",
+          "rect": {
+            "x": 130,
+            "y": 1145,
+            "w": 582,
+            "h": 472
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(255, 255, 255, 0)"
+        },
+        {
+          "tag": "IMG",
+          "text": "",
+          "cls": "",
+          "rect": {
+            "x": 130,
+            "y": 1145,
+            "w": 582,
+            "h": 401
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "Sham Studio template",
+          "cls": "framer-RX6DT framer-zr0hx framer-cZC2Y framer-32eq8k framer-v-32eq8k framer-of3a",
+          "rect": {
+            "x": 728,
+            "y": 1145,
+            "w": 582,
+            "h": 472
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(255, 255, 255, 0)"
+        },
+        {
+          "tag": "IMG",
+          "text": "",
+          "cls": "",
+          "rect": {
+            "x": 728,
+            "y": 1145,
+            "w": 582,
+            "h": 401
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "Create a free website online loved by startups, designers and agencies.",
+          "cls": "framer-6jWyo framer-n0ccwk framer-v-n0ccwk framer-bmpgw8 __framer-badge",
+          "rect": {
+            "x": 1280,
+            "y": 1142,
+            "w": 140,
+            "h": 38
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0)"
+        }
+      ]
+    },
+    {
+      "scrollY": 5507,
+      "visible": [
+        {
+          "tag": "A",
+          "text": "U s e f o r F r e e",
+          "cls": "framer-1u5lwqx framer-3fmz9g",
+          "rect": {
+            "x": 1260,
+            "y": 1056,
+            "w": 160,
+            "h": 35
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgb(17, 17, 17)"
+        },
+        {
+          "tag": "P",
+          "text": "U s e f o r F r e e",
+          "cls": "rolling-text-inner-r5",
+          "rect": {
+            "x": 1297,
+            "y": 1064,
+            "w": 85,
+            "h": 19
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "M o r e T e m p l a t e s",
+          "cls": "framer-1ppydaa framer-3fmz9g",
+          "rect": {
+            "x": 1260,
+            "y": 1099,
+            "w": 160,
+            "h": 35
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgb(17, 17, 17)"
+        },
+        {
+          "tag": "P",
+          "text": "M o r e T e m p l a t e s",
+          "cls": "rolling-text-inner-r6",
+          "rect": {
+            "x": 1283,
+            "y": 1107,
+            "w": 114,
+            "h": 19
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Majd",
+          "cls": "framer-text framer-styles-preset-q3u9sj",
+          "rect": {
+            "x": 576,
+            "y": 45,
+            "w": 45,
+            "h": 31
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "Majd",
+          "cls": "framer-text framer-styles-preset-1kr3xaf",
+          "rect": {
+            "x": 576,
+            "y": 43,
+            "w": 45,
+            "h": 33
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "SECTION",
+          "text": "Featured Projects View All Work Damas Agency template Najm SaaS template Kavi AI template Sham Stud",
+          "cls": "framer-1ut795m",
+          "rect": {
+            "x": 0,
+            "y": -613,
+            "w": 1440,
+            "h": 1292
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "Damas Agency template",
+          "cls": "framer-RX6DT framer-zr0hx framer-cZC2Y framer-32eq8k framer-v-32eq8k framer-of3a",
+          "rect": {
+            "x": 130,
+            "y": -281,
+            "w": 582,
+            "h": 472
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(255, 255, 255, 0)"
+        },
+        {
+          "tag": "IMG",
+          "text": "",
+          "cls": "",
+          "rect": {
+            "x": 130,
+            "y": -281,
+            "w": 582,
+            "h": 401
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Agency template",
+          "cls": "framer-text framer-styles-preset-18hoqs7",
+          "rect": {
+            "x": 130,
+            "y": 169,
+            "w": 582,
+            "h": 22
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(17, 17, 17)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "Najm SaaS template",
+          "cls": "framer-RX6DT framer-zr0hx framer-cZC2Y framer-32eq8k framer-v-32eq8k framer-of3a",
+          "rect": {
+            "x": 728,
+            "y": -281,
+            "w": 582,
+            "h": 472
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(255, 255, 255, 0)"
+        },
+        {
+          "tag": "IMG",
+          "text": "",
+          "cls": "",
+          "rect": {
+            "x": 728,
+            "y": -281,
+            "w": 582,
+            "h": 401
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "SaaS template",
+          "cls": "framer-text framer-styles-preset-18hoqs7",
+          "rect": {
+            "x": 728,
+            "y": 169,
+            "w": 582,
+            "h": 22
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(17, 17, 17)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "Kavi AI template",
+          "cls": "framer-RX6DT framer-zr0hx framer-cZC2Y framer-32eq8k framer-v-32eq8k framer-of3a",
+          "rect": {
+            "x": 130,
+            "y": 209,
+            "w": 582,
+            "h": 472
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(255, 255, 255, 0)"
+        },
+        {
+          "tag": "IMG",
+          "text": "",
+          "cls": "",
+          "rect": {
+            "x": 130,
+            "y": 209,
+            "w": 582,
+            "h": 401
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "AI template",
+          "cls": "framer-text framer-styles-preset-18hoqs7",
+          "rect": {
+            "x": 130,
+            "y": 658,
+            "w": 582,
+            "h": 22
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(17, 17, 17)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "Sham Studio template",
+          "cls": "framer-RX6DT framer-zr0hx framer-cZC2Y framer-32eq8k framer-v-32eq8k framer-of3a",
+          "rect": {
+            "x": 728,
+            "y": 209,
+            "w": 582,
+            "h": 472
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(255, 255, 255, 0)"
+        },
+        {
+          "tag": "IMG",
+          "text": "",
+          "cls": "",
+          "rect": {
+            "x": 728,
+            "y": 209,
+            "w": 582,
+            "h": 401
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Studio template",
+          "cls": "framer-text framer-styles-preset-18hoqs7",
+          "rect": {
+            "x": 728,
+            "y": 658,
+            "w": 582,
+            "h": 22
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(17, 17, 17)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "SECTION",
+          "text": "Testimonials Farhan completely changed how I approach building sites online. The templates are not just beautiful, t",
+          "cls": "framer-1nq91on",
+          "rect": {
+            "x": 0,
+            "y": 689,
+            "w": 1440,
+            "h": 596
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "H2",
+          "text": "Testimonials",
+          "cls": "framer-text framer-styles-preset-izeex",
+          "rect": {
+            "x": 130,
+            "y": 809,
+            "w": 1180,
+            "h": 76
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(17, 17, 17)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Farhan completely changed how I approach building sites online. The templates are not just beautiful, they’re actual",
+          "cls": "framer-text framer-styles-preset-8qcqpn",
+          "rect": {
+            "x": 149,
+            "y": 965,
+            "w": 243,
+            "h": 152
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "IMG",
+          "text": "",
+          "cls": "",
+          "rect": {
+            "x": 241,
+            "y": 1085,
+            "w": 60,
+            "h": 60
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "I’ve tried dozens of templates, but Farhan stands out. Everything feels intentional, from the layout to the smal",
+          "cls": "framer-text framer-styles-preset-8qcqpn",
+          "rect": {
+            "x": 448,
+            "y": 965,
+            "w": 243,
+            "h": 127
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "IMG",
+          "text": "",
+          "cls": "",
+          "rect": {
+            "x": 540,
+            "y": 1085,
+            "w": 60,
+            "h": 60
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Farhan saved me weeks of work. I was able to launch my landing page in a day, and it still looks fully custom.",
+          "cls": "framer-text framer-styles-preset-8qcqpn",
+          "rect": {
+            "x": 747,
+            "y": 965,
+            "w": 243,
+            "h": 102
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "IMG",
+          "text": "",
+          "cls": "",
+          "rect": {
+            "x": 839,
+            "y": 1085,
+            "w": 60,
+            "h": 60
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "The quality is insane. Clean structure, smooth animations, and super easy to customize. It feels like a premium product ",
+          "cls": "framer-text framer-styles-preset-8qcqpn",
+          "rect": {
+            "x": 1046,
+            "y": 965,
+            "w": 243,
+            "h": 127
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "IMG",
+          "text": "",
+          "cls": "",
+          "rect": {
+            "x": 1138,
+            "y": 1085,
+            "w": 60,
+            "h": 60
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "Create a free website online loved by startups, designers and agencies.",
+          "cls": "framer-6jWyo framer-n0ccwk framer-v-n0ccwk framer-bmpgw8 __framer-badge",
+          "rect": {
+            "x": 1280,
+            "y": 1142,
+            "w": 140,
+            "h": 38
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0)"
+        }
+      ]
+    },
+    {
+      "scrollY": 6424,
+      "visible": [
+        {
+          "tag": "A",
+          "text": "U s e f o r F r e e",
+          "cls": "framer-1u5lwqx framer-3fmz9g",
+          "rect": {
+            "x": 1260,
+            "y": 1056,
+            "w": 160,
+            "h": 35
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgb(17, 17, 17)"
+        },
+        {
+          "tag": "P",
+          "text": "U s e f o r F r e e",
+          "cls": "rolling-text-inner-r5",
+          "rect": {
+            "x": 1297,
+            "y": 1064,
+            "w": 85,
+            "h": 19
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "M o r e T e m p l a t e s",
+          "cls": "framer-1ppydaa framer-3fmz9g",
+          "rect": {
+            "x": 1260,
+            "y": 1099,
+            "w": 160,
+            "h": 35
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgb(17, 17, 17)"
+        },
+        {
+          "tag": "P",
+          "text": "M o r e T e m p l a t e s",
+          "cls": "rolling-text-inner-r6",
+          "rect": {
+            "x": 1283,
+            "y": 1107,
+            "w": 114,
+            "h": 19
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Majd",
+          "cls": "framer-text framer-styles-preset-q3u9sj",
+          "rect": {
+            "x": 576,
+            "y": 45,
+            "w": 45,
+            "h": 31
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "Majd",
+          "cls": "framer-text framer-styles-preset-1kr3xaf",
+          "rect": {
+            "x": 576,
+            "y": 43,
+            "w": 45,
+            "h": 33
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "SECTION",
+          "text": "Testimonials Farhan completely changed how I approach building sites online. The templates are not just beautiful, t",
+          "cls": "framer-1nq91on",
+          "rect": {
+            "x": 0,
+            "y": -228,
+            "w": 1440,
+            "h": 596
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Farhan completely changed how I approach building sites online. The templates are not just beautiful, they’re actual",
+          "cls": "framer-text framer-styles-preset-8qcqpn",
+          "rect": {
+            "x": 150,
+            "y": 48,
+            "w": 243,
+            "h": 151
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "IMG",
+          "text": "man standing near balcony",
+          "cls": "",
+          "rect": {
+            "x": 150,
+            "y": 298,
+            "w": 50,
+            "h": 50
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Yakoub Kashmiri",
+          "cls": "framer-text framer-styles-preset-18hoqs7",
+          "rect": {
+            "x": 208,
+            "y": 301,
+            "w": 108,
+            "h": 22
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Marketing Director",
+          "cls": "framer-text framer-styles-preset-1egr5bs",
+          "rect": {
+            "x": 208,
+            "y": 323,
+            "w": 117,
+            "h": 22
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "IMG",
+          "text": "",
+          "cls": "",
+          "rect": {
+            "x": 241,
+            "y": 168,
+            "w": 60,
+            "h": 60
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "I’ve tried dozens of templates, but Farhan stands out. Everything feels intentional, from the layout to the smal",
+          "cls": "framer-text framer-styles-preset-8qcqpn",
+          "rect": {
+            "x": 449,
+            "y": 48,
+            "w": 243,
+            "h": 126
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "IMG",
+          "text": "grayscale photo of man",
+          "cls": "",
+          "rect": {
+            "x": 449,
+            "y": 298,
+            "w": 50,
+            "h": 50
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Daniel K.",
+          "cls": "framer-text framer-styles-preset-18hoqs7",
+          "rect": {
+            "x": 507,
+            "y": 301,
+            "w": 59,
+            "h": 22
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Indie Maker",
+          "cls": "framer-text framer-styles-preset-1egr5bs",
+          "rect": {
+            "x": 507,
+            "y": 323,
+            "w": 74,
+            "h": 22
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "IMG",
+          "text": "",
+          "cls": "",
+          "rect": {
+            "x": 540,
+            "y": 168,
+            "w": 60,
+            "h": 60
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Farhan saved me weeks of work. I was able to launch my landing page in a day, and it still looks fully custom.",
+          "cls": "framer-text framer-styles-preset-8qcqpn",
+          "rect": {
+            "x": 748,
+            "y": 48,
+            "w": 243,
+            "h": 101
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "IMG",
+          "text": "man standing near white wall",
+          "cls": "",
+          "rect": {
+            "x": 748,
+            "y": 298,
+            "w": 50,
+            "h": 50
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Mark M.",
+          "cls": "framer-text framer-styles-preset-18hoqs7",
+          "rect": {
+            "x": 806,
+            "y": 301,
+            "w": 52,
+            "h": 22
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Startup Founder",
+          "cls": "framer-text framer-styles-preset-1egr5bs",
+          "rect": {
+            "x": 806,
+            "y": 323,
+            "w": 106,
+            "h": 22
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "IMG",
+          "text": "",
+          "cls": "",
+          "rect": {
+            "x": 839,
+            "y": 168,
+            "w": 60,
+            "h": 60
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "The quality is insane. Clean structure, smooth animations, and super easy to customize. It feels like a premium product ",
+          "cls": "framer-text framer-styles-preset-8qcqpn",
+          "rect": {
+            "x": 1047,
+            "y": 48,
+            "w": 243,
+            "h": 126
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "IMG",
+          "text": "man in black button-up shirt",
+          "cls": "",
+          "rect": {
+            "x": 1047,
+            "y": 298,
+            "w": 50,
+            "h": 50
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Omar H.",
+          "cls": "framer-text framer-styles-preset-18hoqs7",
+          "rect": {
+            "x": 1105,
+            "y": 301,
+            "w": 56,
+            "h": 22
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Frontend Developer",
+          "cls": "framer-text framer-styles-preset-1egr5bs",
+          "rect": {
+            "x": 1105,
+            "y": 323,
+            "w": 129,
+            "h": 22
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "IMG",
+          "text": "",
+          "cls": "",
+          "rect": {
+            "x": 1138,
+            "y": 168,
+            "w": 60,
+            "h": 60
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "SECTION",
+          "text": "Thoughts May 5, 2025 Building Trust Through Clear Design How thoughtful visual choices create a stronger sense of reliab",
+          "cls": "framer-141no99",
+          "rect": {
+            "x": 0,
+            "y": 378,
+            "w": 1440,
+            "h": 716
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "H2",
+          "text": "Thoughts",
+          "cls": "framer-text framer-styles-preset-izeex",
+          "rect": {
+            "x": 130,
+            "y": 498,
+            "w": 1180,
+            "h": 76
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(17, 17, 17)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "May 5, 2025 Building Trust Through Clear Design How thoughtful visual choices create a stronger sense of reliability for",
+          "cls": "framer-6Ku2B framer-cZC2Y framer-zr0hx framer-hvjv56 framer-v-hvjv56 framer-191g",
+          "rect": {
+            "x": 130,
+            "y": 634,
+            "w": 383,
+            "h": 460
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0)"
+        }
+      ]
+    },
+    {
+      "scrollY": 7342,
+      "visible": [
+        {
+          "tag": "A",
+          "text": "U s e f o r F r e e",
+          "cls": "framer-1u5lwqx framer-3fmz9g",
+          "rect": {
+            "x": 1260,
+            "y": 1056,
+            "w": 160,
+            "h": 35
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgb(17, 17, 17)"
+        },
+        {
+          "tag": "P",
+          "text": "U s e f o r F r e e",
+          "cls": "rolling-text-inner-r5",
+          "rect": {
+            "x": 1297,
+            "y": 1064,
+            "w": 85,
+            "h": 19
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "M o r e T e m p l a t e s",
+          "cls": "framer-1ppydaa framer-3fmz9g",
+          "rect": {
+            "x": 1260,
+            "y": 1099,
+            "w": 160,
+            "h": 35
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgb(17, 17, 17)"
+        },
+        {
+          "tag": "P",
+          "text": "M o r e T e m p l a t e s",
+          "cls": "rolling-text-inner-r6",
+          "rect": {
+            "x": 1283,
+            "y": 1107,
+            "w": 114,
+            "h": 19
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Majd",
+          "cls": "framer-text framer-styles-preset-q3u9sj",
+          "rect": {
+            "x": 576,
+            "y": 45,
+            "w": 45,
+            "h": 31
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "Majd",
+          "cls": "framer-text framer-styles-preset-1kr3xaf",
+          "rect": {
+            "x": 576,
+            "y": 43,
+            "w": 45,
+            "h": 33
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "SECTION",
+          "text": "Thoughts May 5, 2025 Building Trust Through Clear Design How thoughtful visual choices create a stronger sense of reliab",
+          "cls": "framer-141no99",
+          "rect": {
+            "x": 0,
+            "y": -540,
+            "w": 1440,
+            "h": 716
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "May 5, 2025 Building Trust Through Clear Design How thoughtful visual choices create a stronger sense of reliability for",
+          "cls": "framer-6Ku2B framer-cZC2Y framer-zr0hx framer-hvjv56 framer-v-hvjv56 framer-191g",
+          "rect": {
+            "x": 130,
+            "y": -284,
+            "w": 383,
+            "h": 460
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "IMG",
+          "text": "",
+          "cls": "",
+          "rect": {
+            "x": 130,
+            "y": -284,
+            "w": 383,
+            "h": 460
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "May 5, 2025",
+          "cls": "framer-text framer-styles-preset-18hoqs7",
+          "rect": {
+            "x": 150,
+            "y": -3,
+            "w": 343,
+            "h": 22
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "How thoughtful visual choices create a stronger sense of reliability for modern brands.",
+          "cls": "framer-text framer-styles-preset-18hoqs7",
+          "rect": {
+            "x": 150,
+            "y": 112,
+            "w": 343,
+            "h": 45
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "Jun 16, 2025 The Role of Art Direction in Branding Why visual direction helps brands create emotion and a distinct point",
+          "cls": "framer-6Ku2B framer-cZC2Y framer-zr0hx framer-hvjv56 framer-v-hvjv56 framer-191g",
+          "rect": {
+            "x": 529,
+            "y": -284,
+            "w": 383,
+            "h": 460
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "IMG",
+          "text": "",
+          "cls": "",
+          "rect": {
+            "x": 529,
+            "y": -284,
+            "w": 383,
+            "h": 460
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Jun 16, 2025",
+          "cls": "framer-text framer-styles-preset-18hoqs7",
+          "rect": {
+            "x": 549,
+            "y": -3,
+            "w": 343,
+            "h": 22
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Why visual direction helps brands create emotion and a distinct point of view.",
+          "cls": "framer-text framer-styles-preset-18hoqs7",
+          "rect": {
+            "x": 549,
+            "y": 112,
+            "w": 343,
+            "h": 45
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "See how we shape brands with clarity and craft— explore our blog",
+          "cls": "framer-text framer-styles-preset-zm3inp",
+          "rect": {
+            "x": 951,
+            "y": -260,
+            "w": 335,
+            "h": 264
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "View All Work",
+          "cls": "framer-jEmFC framer-N1dSz framer-f4qgyi framer-v-1sh4ril framer-1jei1zo",
+          "rect": {
+            "x": 951,
+            "y": 124,
+            "w": 137,
+            "h": 28
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(255, 255, 255, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "View All Work",
+          "cls": "framer-text framer-styles-preset-8qcqpn",
+          "rect": {
+            "x": 951,
+            "y": 126,
+            "w": 99,
+            "h": 25
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "SECTION",
+          "text": "Let’s talk. Have a project or need help? Fill out the form, and I'll get back to you soon. You can also reach me directly by Call and WhatsApp at +91 88518 60838. Name Email Your Project S u ",
+          "cls": "framer-9u1bc5",
+          "rect": {
+            "x": 0,
+            "y": 186,
+            "w": 1440,
+            "h": 695
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "H2",
+          "text": "Let’s talk.",
+          "cls": "framer-text framer-styles-preset-izeex",
+          "rect": {
+            "x": 130,
+            "y": 306,
+            "w": 640,
+            "h": 76
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(17, 17, 17)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Have a project or need help? Fill out the form, and I'll get back to you soon. You can also reach me directly by Call and WhatsApp at +91 88518 60838.",
+          "cls": "framer-text framer-styles-preset-8qcqpn",
+          "rect": {
+            "x": 130,
+            "y": 392,
+            "w": 640,
+            "h": 25
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(17, 17, 17)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "cls": "framer-TJUch framer-1x1xzj3 framer-v-1x1xzj3 framer-1vvmdfe",
+          "rect": {
+            "x": 130,
+            "y": 722,
+            "w": 40,
+            "h": 40
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0.1)"
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "cls": "framer-TJUch framer-1x1xzj3 framer-v-1x1xzj3 framer-1vvmdfe",
+          "rect": {
+            "x": 186,
+            "y": 723,
+            "w": 40,
+            "h": 40
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0.1)"
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "cls": "framer-TJUch framer-1x1xzj3 framer-v-1x1xzj3 framer-1vvmdfe",
+          "rect": {
+            "x": 242,
+            "y": 724,
+            "w": 40,
+            "h": 40
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0.1)"
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "cls": "framer-TJUch framer-1x1xzj3 framer-v-1x1xzj3 framer-1vvmdfe",
+          "rect": {
+            "x": 298,
+            "y": 725,
+            "w": 40,
+            "h": 40
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0.1)"
+        },
+        {
+          "tag": "P",
+          "text": "Name",
+          "cls": "framer-text framer-styles-preset-18hoqs7",
+          "rect": {
+            "x": 826,
+            "y": 324,
+            "w": 41,
+            "h": 22
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Email",
+          "cls": "framer-text framer-styles-preset-18hoqs7",
+          "rect": {
+            "x": 826,
+            "y": 419,
+            "w": 39,
+            "h": 22
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Your Project",
+          "cls": "framer-text framer-styles-preset-18hoqs7",
+          "rect": {
+            "x": 826,
+            "y": 513,
+            "w": 77,
+            "h": 22
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "S u b m i t",
+          "cls": "rolling-text-inner-r10",
+          "rect": {
+            "x": 1035,
+            "y": 716,
+            "w": 50,
+            "h": 19
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "FOOTER",
+          "text": "Scaling Start-ups for Growth. /Quick links H o m e A b o u t M e S e r v i c e s W o r k s C o n t a c t /Contact Mejed@",
+          "cls": "framer-soKIl framer-R6rCf framer-OkZLF framer-N1dSz framer-ZHE11 framer-788ly6 f",
+          "rect": {
+            "x": 0,
+            "y": 882,
+            "w": 1440,
+            "h": 624
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgb(17, 17, 17)"
+        }
+      ]
+    },
+    {
+      "scrollY": 7648,
+      "visible": [
+        {
+          "tag": "A",
+          "text": "U s e f o r F r e e",
+          "cls": "framer-1u5lwqx framer-3fmz9g",
+          "rect": {
+            "x": 1260,
+            "y": 1056,
+            "w": 160,
+            "h": 35
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgb(17, 17, 17)"
+        },
+        {
+          "tag": "P",
+          "text": "U s e f o r F r e e",
+          "cls": "rolling-text-inner-r5",
+          "rect": {
+            "x": 1297,
+            "y": 1064,
+            "w": 85,
+            "h": 19
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "M o r e T e m p l a t e s",
+          "cls": "framer-1ppydaa framer-3fmz9g",
+          "rect": {
+            "x": 1260,
+            "y": 1099,
+            "w": 160,
+            "h": 35
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgb(17, 17, 17)"
+        },
+        {
+          "tag": "P",
+          "text": "M o r e T e m p l a t e s",
+          "cls": "rolling-text-inner-r6",
+          "rect": {
+            "x": 1283,
+            "y": 1107,
+            "w": 114,
+            "h": 19
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Majd",
+          "cls": "framer-text framer-styles-preset-q3u9sj",
+          "rect": {
+            "x": 576,
+            "y": 45,
+            "w": 45,
+            "h": 31
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "Majd",
+          "cls": "framer-text framer-styles-preset-1kr3xaf",
+          "rect": {
+            "x": 576,
+            "y": 43,
+            "w": 45,
+            "h": 33
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "SECTION",
+          "text": "Let’s talk. Have a project or need help? Fill out the form, and I'll get back to you soon. You can also reach me directly by Call and WhatsApp at +91 88518 60838. Name Email Your Project S u ",
+          "cls": "framer-9u1bc5",
+          "rect": {
+            "x": 0,
+            "y": -120,
+            "w": 1440,
+            "h": 695
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "H2",
+          "text": "Let’s talk.",
+          "cls": "framer-text framer-styles-preset-izeex",
+          "rect": {
+            "x": 130,
+            "y": 0,
+            "w": 640,
+            "h": 76
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(17, 17, 17)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Have a project or need help? Fill out the form, and I'll get back to you soon. You can also reach me directly by Call and WhatsApp at +91 88518 60838.",
+          "cls": "framer-text framer-styles-preset-8qcqpn",
+          "rect": {
+            "x": 130,
+            "y": 86,
+            "w": 640,
+            "h": 25
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(17, 17, 17)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "cls": "framer-TJUch framer-1x1xzj3 framer-v-1x1xzj3 framer-1vvmdfe",
+          "rect": {
+            "x": 130,
+            "y": 416,
+            "w": 40,
+            "h": 40
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0.1)"
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "cls": "framer-TJUch framer-1x1xzj3 framer-v-1x1xzj3 framer-1vvmdfe",
+          "rect": {
+            "x": 186,
+            "y": 416,
+            "w": 40,
+            "h": 40
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0.1)"
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "cls": "framer-TJUch framer-1x1xzj3 framer-v-1x1xzj3 framer-1vvmdfe",
+          "rect": {
+            "x": 242,
+            "y": 416,
+            "w": 40,
+            "h": 40
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0.1)"
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "cls": "framer-TJUch framer-1x1xzj3 framer-v-1x1xzj3 framer-1vvmdfe",
+          "rect": {
+            "x": 298,
+            "y": 416,
+            "w": 40,
+            "h": 40
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0.1)"
+        },
+        {
+          "tag": "P",
+          "text": "Name",
+          "cls": "framer-text framer-styles-preset-18hoqs7",
+          "rect": {
+            "x": 826,
+            "y": 16,
+            "w": 41,
+            "h": 22
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Email",
+          "cls": "framer-text framer-styles-preset-18hoqs7",
+          "rect": {
+            "x": 826,
+            "y": 111,
+            "w": 39,
+            "h": 22
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Your Project",
+          "cls": "framer-text framer-styles-preset-18hoqs7",
+          "rect": {
+            "x": 826,
+            "y": 205,
+            "w": 77,
+            "h": 22
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "S u b m i t",
+          "cls": "rolling-text-inner-r10",
+          "rect": {
+            "x": 1035,
+            "y": 408,
+            "w": 50,
+            "h": 19
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "FOOTER",
+          "text": "Scaling Start-ups for Growth. /Quick links H o m e A b o u t M e S e r v i c e s W o r k s C o n t a c t /Contact Mejed@",
+          "cls": "framer-soKIl framer-R6rCf framer-OkZLF framer-N1dSz framer-ZHE11 framer-788ly6 f",
+          "rect": {
+            "x": 0,
+            "y": 576,
+            "w": 1440,
+            "h": 624
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgb(17, 17, 17)"
+        },
+        {
+          "tag": "H2",
+          "text": "Scaling Start-ups for Growth.",
+          "cls": "framer-text framer-styles-preset-qivcl7",
+          "rect": {
+            "x": 130,
+            "y": 696,
+            "w": 340,
+            "h": 204
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(17, 17, 17)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "H o m e",
+          "cls": "framer-W6IRo framer-17htvoe framer-v-17htvoe framer-1x4c6pk",
+          "rect": {
+            "x": 590,
+            "y": 819,
+            "w": 75,
+            "h": 35
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgb(250, 247, 243)"
+        },
+        {
+          "tag": "P",
+          "text": "H o m e",
+          "cls": "rolling-text-inner-r16",
+          "rect": {
+            "x": 606,
+            "y": 827,
+            "w": 43,
+            "h": 19
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "A b o u t M e",
+          "cls": "framer-W6IRo framer-17htvoe framer-v-17htvoe framer-1x4c6pk",
+          "rect": {
+            "x": 675,
+            "y": 819,
+            "w": 99,
+            "h": 35
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgb(250, 247, 243)"
+        },
+        {
+          "tag": "P",
+          "text": "A b o u t M e",
+          "cls": "rolling-text-inner-r1a",
+          "rect": {
+            "x": 691,
+            "y": 827,
+            "w": 67,
+            "h": 19
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "S e r v i c e s",
+          "cls": "framer-W6IRo framer-17htvoe framer-v-17htvoe framer-1x4c6pk",
+          "rect": {
+            "x": 783,
+            "y": 819,
+            "w": 94,
+            "h": 35
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgb(250, 247, 243)"
+        },
+        {
+          "tag": "P",
+          "text": "S e r v i c e s",
+          "cls": "rolling-text-inner-r1d",
+          "rect": {
+            "x": 799,
+            "y": 827,
+            "w": 62,
+            "h": 19
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "W o r k s",
+          "cls": "framer-W6IRo framer-17htvoe framer-v-17htvoe framer-1x4c6pk",
+          "rect": {
+            "x": 590,
+            "y": 864,
+            "w": 76,
+            "h": 35
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgb(250, 247, 243)"
+        },
+        {
+          "tag": "P",
+          "text": "W o r k s",
+          "cls": "rolling-text-inner-r1g",
+          "rect": {
+            "x": 606,
+            "y": 872,
+            "w": 44,
+            "h": 19
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "A",
+          "text": "C o n t a c t",
+          "cls": "framer-W6IRo framer-17htvoe framer-v-17htvoe framer-1x4c6pk",
+          "rect": {
+            "x": 676,
+            "y": 864,
+            "w": 88,
+            "h": 35
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgb(250, 247, 243)"
+        },
+        {
+          "tag": "P",
+          "text": "C o n t a c t",
+          "cls": "rolling-text-inner-r1j",
+          "rect": {
+            "x": 692,
+            "y": 872,
+            "w": 56,
+            "h": 19
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "tag": "P",
+          "text": "Mejed@Farhan.io",
+          "cls": "framer-text framer-styles-preset-8qcqpn",
+          "rect": {
+            "x": 1010,
+            "y": 819,
+            "w": 300,
+            "h": 25
+          },
+          "opacity": "1",
+          "filter": "none",
+          "transform": "none",
+          "color": "rgb(250, 247, 243)",
+          "background": "rgba(0, 0, 0, 0)"
+        }
+      ]
+    }
+  ]
+}
